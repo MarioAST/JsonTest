@@ -1,6 +1,16 @@
-{"idSucursal":112,
- "compraEfectivoDolar":"19.30",
- "ventaEfectivoDolar":"21.00",
- "compraEfectivoEuro":"20.50",
- "ventaEfectivoEuro":"24.10"
- }
+{
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "color": "gold",
+  "null": null,
+  "number": 123,
+  "object": {
+    "a": "b",
+    "c": "d"
+  },
+  "string": "Hello World"
+}
