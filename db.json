@@ -3,6 +3,20 @@
     {
       "id": 1,
       "title": "hello"
+    },
+    {
+     "id": 2, 
+     "idSucursal":112,
+     "idGrupo":8,
+     "compraEfectivoDolar":"19.30",
+     "ventaEfectivoDolar":"21.00",
+     "compraEfectivoEuro":"20.50",
+     "ventaEfectivoEuro":"24.10",
+     "nombreSucursal":"CULIACAN BLVD. ZAPATA",
+     "ciudadSucursal":"CULIACAN",
+     "leyenda":"*Precios informativos sujetos a cambios sin previo aviso",
+     "banner":"Bienvenido a banregio",
+     "fechaUltimaActualizacion":"2022-01-14T11:35:46.565"
     }
   ],
   "profile": {
