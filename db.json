@@ -6,17 +6,17 @@
     },
     {
      "id": 2, 
-     "idSucursal":112,
+     "idSucursal":1,
      "idGrupo":8,
-     "compraEfectivoDolar":"12.35",
-     "ventaEfectivoDolar":"12.12",
-     "compraEfectivoEuro":"20.50",
-     "ventaEfectivoEuro":"24.10",
-     "nombreSucursal":"CULIACAN BLVD. ZAPATA",
-     "ciudadSucursal":"CULIACAN",
+     "compraEfectivoDolar":"20.12",
+     "ventaEfectivoDolar":"21.34",
+     "compraEfectivoEuro":"25.56",
+     "ventaEfectivoEuro":"26.78",
+     "nombreSucursal":"LUMTEC S.A. de C.V",
+     "ciudadSucursal":"CDMX",
      "leyenda":"*Precios informativos sujetos a cambios sin previo aviso",
      "banner":"Bienvenido a banregio",
-     "fechaUltimaActualizacion":"2022-01-17T12:42:46.565"
+     "fechaUltimaActualizacion":"2022-01-25 T17:00:00"
     }
   ],
   "profile": {
